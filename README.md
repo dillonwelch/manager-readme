@@ -44,11 +44,11 @@ I'm a believer in the "broken window" theory of crime applying to bugs. I feel t
 
 I'm a believer in fixing "small things" and leaving the world a better place than you found it. Ten dimes and a dollar bill have the same value.
 
-I like to focus on building what is needed to solve the problem as it's understood today instead of overbuilding for a problem that may or may not occur tomorrow. Get the fix/feature/etc in front of customers, measure, and iterate.
+I like to focus on building what is needed to solve the problem as it's understood today instead of overbuilding for a problem that may or may not occur tomorrow. Get the fix/feature/etc in front of customers, measure, and iterate. This fits into optimizing for cognitive complexity as only the code that actually matters is in the codebase.
 
-I am obsessive about being on the latest version of libraries.
+I am obsessive about being on the latest version of libraries. This fits into optimizing for cognitive complexity as it means the latest features and bug fixes will be available.
 
-I am to be as close as possible to 100% test coverage.
+I am to be as close as possible to 100% test coverage. This fits into optimizing for cognitive complexity as it means if tests pass you can be (near) worry-free that your changes are safe.
 
 ## What I aim to do for you
 
